@@ -2,7 +2,7 @@
 
 ## Circuit Connection
 
-![Circuit](connection.jpg)
+![Circuit](series_vs_parallel_connections.jpeg)
 
 ## Description
 
