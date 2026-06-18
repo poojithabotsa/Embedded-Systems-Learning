@@ -1,1 +1,9 @@
-This repository contains my experiments, practice projects, notes, and learning activities in Embedded Systems.
+# Series vs Parallel LED Connections
+
+## Circuit Connection
+
+![Circuit](connection.jpg)
+
+## Description
+
+Comparison of LED brightness and current flow in series and parallel connections.
