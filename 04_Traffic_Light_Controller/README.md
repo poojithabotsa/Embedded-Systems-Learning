@@ -2,11 +2,12 @@ Traffic Light Controller
 
 Circuit Connection
 
-"Circuit Diagram" (circuit.png)
+[circuit.png](circuit.png)
 
 Demonstration Video
+[traffic_light_demo.mp4](traffic_light_demo.mp4)
 
-"traffic_light_demo.mp4" (traffic_light_demo.mp4)
+
 
 Description
 
